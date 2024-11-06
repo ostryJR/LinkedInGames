@@ -1,29 +1,27 @@
-# Chrome-Extension-Base-Template
+# Chrome-Extension-
+This simple Chrome extension adds the `Tango` game to the main list of games on [LinkedIn](linkedin.com/games)
+Because there is no API known to me, it can't display the game number and if it's finished :(
 
+Before
+<img width="400" alt="Screenshot 2024-11-06 at 15 14 04" src="https://github.com/user-attachments/assets/180ad7ee-e13f-41ed-8e00-a4895094dd93">
+After
+<img width="400" alt="Screenshot 2024-11-06 at 15 14 54" src="https://github.com/user-attachments/assets/2f193f2f-894b-45cb-b1e1-063fbd246c23">
 
 ## Features
-- ..
-- ..
-- ..
+- Adds tango game to the list of available games
+
 
 ## Author
-- [Author Github](github.com/ostryJR)
-- [Project Repository]()
+- Mikolaj "Miki" Ostrowski [My Github](github.com/ostryJR)
 
 ## Setup Instructions
-### For Developers
-1. Make a clone of this project, unzipped.
-2. Open Chrome Browser
-3. In a new or blank tab, type in "chrome://extensions/" (without the quotes of course) and click [Enter].
-4. At the top right corner of the page, **enable** "Developer Mode"
-5. Click the button on the page that says "Load Unpacked"
-6. Navigate to your unzipped project folder and select that and hit OK.
-7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
-
-### For End Users
-1. ...
-2. ...
-3. ...
-
-## License
-Please refer to LICENSE file.
+1. Download it as a zip file
+2. Open Chrome extension manager by:
+   - * Click 3 dots(settings) in the top right corner of the chrome window (next to your profile icon)
+     * Choose Extensions
+     * Manage Extensions
+   - or Type `chrome://extensions` in search bar
+3. Switch mode to `Developer` in the top right corner
+4. Unzip the folder that you downloaded in step 1
+5. Click load unzipped and choose the unzipped folder
+6. **Done!**
