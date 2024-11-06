@@ -1,19 +1,19 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "LinkedIn Games",
   "version": "0.1",
   "author": "Mikolaj \"Miki\" Ostrowski",
-  "description": "",
+  "description": "Adds Tango to LinkedIn Games",
   "permissions": [
     ""
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://linkedin.com/games"
+        "https://*.linkedin.com/games/",
+        "https://*.lnkd.in/games"
       ],
       "js": [
-        "content.js",
         "background.js"
       ]
     }
@@ -25,7 +25,6 @@
   },
 
   "icons": {
-    "128": "logo128.png",
-    "512": "logo512.png"
+    "1024": "linkedinLogo.png"
   }
 }
