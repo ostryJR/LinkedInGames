@@ -1,4 +1,4 @@
-# Chrome-Extension-
+# LinkedIn Games Repair Chrome Extension
 This simple Chrome extension adds the `Tango` game to the main list of games on [LinkedIn](linkedin.com/games)
 Because there is no API known to me, it can't display the game number and if it's finished :(
 
