@@ -2,6 +2,9 @@
 This simple Chrome extension adds the `Tango` game to the main list of games on [LinkedIn](linkedin.com/games)
 Because there is no API known to me, it can't display the game number and if it's finished :(
 
+> [!IMPORTANT]
+> As of 07.11.2024 LinkedIn started showing the Tango by default, thus this extension is obsolete.
+
 Before
 <img width="400" alt="Screenshot 2024-11-06 at 15 14 04" src="https://github.com/user-attachments/assets/180ad7ee-e13f-41ed-8e00-a4895094dd93">
 After
