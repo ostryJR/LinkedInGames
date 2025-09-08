@@ -5,13 +5,22 @@
   "author": "Mikolaj \"Miki\" Ostrowski",
   "description": "Adds Mini Sudoku to LinkedIn Games",
   "content_scripts": [
-    {
+   {
       "matches": [
         "https://*.linkedin.com/games/",
         "https://*.lnkd.in/games"
       ],
       "js": [
-        "background.js"
+        "gamesPage.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.linkedin.com/feed/",
+        "https://*.lnkd.in/feed"
+      ],
+      "js": [
+        "feedPage.js"
       ]
     }
   ],
