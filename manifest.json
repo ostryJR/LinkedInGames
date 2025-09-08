@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "LinkedIn Games",
-  "version": "0.2",
+  "version": "0.2.1",
   "author": "Mikolaj \"Miki\" Ostrowski",
   "description": "Adds Mini Sudoku to LinkedIn Games",
   "content_scripts": [
