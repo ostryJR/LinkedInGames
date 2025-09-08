@@ -9,8 +9,11 @@ Because there is no API known to me, it can't display the game number and if it'
 
 Before
 <img width="300" alt="Screenshot 2024-11-06 at 15 14 04" src="https://github.com/user-attachments/assets/180ad7ee-e13f-41ed-8e00-a4895094dd93">
+<img width="311" height="331" alt="Screenshot 2025-09-08 at 10 11 04" src="https://github.com/user-attachments/assets/25b92d31-decc-43ea-b870-b28f1aea1690" />
+
 After
 <img width="300" alt="Screenshot 2024-11-06 at 15 14 54" src="https://github.com/user-attachments/assets/2f193f2f-894b-45cb-b1e1-063fbd246c23">
+<img width="310" height="334" alt="Screenshot 2025-09-08 at 10 13 37" src="https://github.com/user-attachments/assets/97eabac4-ca04-4912-82d6-5710c48450ea" />
 
 ## Features
 - Adds ~~tango~~ Mini Sudoku game to the list of available games
