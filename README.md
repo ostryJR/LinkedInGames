@@ -33,5 +33,6 @@ After
 
 
 ## Changelog
-- v0.1 Adds Mini Sudoku game to the list of available games
+- v0.2.1 Added support to show games also in the main feed in the top right corner
+- v0.2 Adds Mini Sudoku game to the list of available games
 - v0.1 Adds Tango game to the list of available games
